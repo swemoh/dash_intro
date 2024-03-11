@@ -51,6 +51,7 @@ fonttools==4.25.0
 fqdn==1.5.1
 fsspec==2022.11.0
 geopandas==0.11.1
+gunicorn==21.2.0
 idna @ file:///tmp/build/80754af9/idna_1637925883363/work
 imageio==2.32.0
 importlib-metadata @ file:///opt/concourse/worker/volumes/live/9f82d2cd-acb0-490f-6640-deddcdde7174/volume/importlib-metadata_1648562428986/work
